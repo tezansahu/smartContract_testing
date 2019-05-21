@@ -1,7 +1,7 @@
 {
   "name": "smartcontract_testing",
   "version": "1.0.0",
-  "description": "",
+  "description": "A tutorial for writing Javascript Tests for Solidity Smart Contracts",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
